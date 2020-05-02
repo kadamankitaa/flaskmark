@@ -1,0 +1,28 @@
+Step 1:Create a virtual environment
+
+command: virtualenv env
+
+Step 2:open virtual environment:
+
+ubuntu:source env/bin/activate
+
+windows:env\Scripts\activate
+
+Step 3:install all the requirements:
+
+command: pip3 install -r requirements.txt
+
+Step 4:run the python file with flask: 
+
+command:python image.py
+
+Step 5:open virtual environment:
+
+command:deactivate
+
+
+Important:
+
+Upload the image with only test.jpg name
+
+Change the path for opening the image in def input_image():
