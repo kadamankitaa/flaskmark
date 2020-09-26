@@ -2,7 +2,7 @@ tqdm
 opencv-python
 scikit-image
 keras
-tensorflow==1.13.1
+tensorflow==1.15.4
 ipython
 mrcnn
 flask
